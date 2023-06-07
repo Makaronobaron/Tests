@@ -1,0 +1,46 @@
+body{
+    background: linear-gradient(90deg, #3c1c1c, #de6d6d);
+    background-attachment: fixed;
+    text-align: center;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #c2eac8;
+    text-align: center;
+    font-size: 90px; 
+}
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #c2eac8;
+    text-align: center;
+    font-size: 50px; 
+}
+.name{
+    color: #c2eac8;
+    font-size: 40px;
+}
+input{
+    width: 110px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+p{
+    color: rgb(201, 255, 255);
+    font-size: 25px;
+}
+.right {
+    background-color: rgb(152, 231, 152);
+}
+.wrong {
+    background-color: rgb(255, 0, 0);
+}
+.testBtn{
+    text-align: center;
+    font-size: 14px;
+    height: 25px;
+}
+.testBtn2{
+    text-align: center;
+    font-size: 14px;
+}
